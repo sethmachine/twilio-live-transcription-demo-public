@@ -13,4 +13,8 @@ To try the demo, you will need the following accounts or tools installed:
 * [ngrok](https://ngrok.com/docs/getting-started/)
 * [PieSocket WebSocket Tester](https://chrome.google.com/webstore/detail/piesocket-websocket-teste/oilioclnckkoijghdniegedkbocfpnip)
 
+## Demo
 
+The following video demonstrates speech over the telephone being immediately transcribed into text:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo-IU1oyN5I?si=bsYHLwKdQwzEmWaq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
